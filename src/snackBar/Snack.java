@@ -52,4 +52,4 @@ public class Snack{
     public double getTotalCost(int items){
         return items * cost;
     }
-}
+}  
